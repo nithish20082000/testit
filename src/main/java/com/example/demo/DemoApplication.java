@@ -10,6 +10,8 @@ public class DemoApplication implements CommandLineRunner {
     public static void main(String[] args) {
 
         //this line is written to check it from our end
+        System.out.println("three");
+        System.out.println("Four");
         SpringApplication.run(DemoApplication.class, args);
 
 

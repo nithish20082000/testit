@@ -9,6 +9,7 @@ public class DemoApplication implements CommandLineRunner {
     private static boolean val=false;
     public static void main(String[] args) {
 
+        //this line is written to check it from our end
         SpringApplication.run(DemoApplication.class, args);
 
 
